@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758739871879",
+    "project_id": "facebook-signin-2f674",
+    "storage_bucket": "facebook-signin-2f674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758739871879:android:4cbb7aee9e193392723022",
+        "android_client_info": {
+          "package_name": "com.example.flutter_facebook_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758739871879-lme5etnoar1qcvujd3lcrg8tvmd1ctd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJa1OMkfaakAjcw3pkhVcdsys6o3ujhLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758739871879-lme5etnoar1qcvujd3lcrg8tvmd1ctd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
